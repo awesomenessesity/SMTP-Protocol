@@ -1,0 +1,18 @@
+c:\users\alex\documents\visual studio 2015\Projects\STMP_Client\STMP_Client\bin\Debug\STMP_Client.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\STMP_Client\STMP_Client\bin\Debug\STMP_Client.exe
+c:\users\alex\documents\visual studio 2015\Projects\STMP_Client\STMP_Client\bin\Debug\STMP_Client.pdb
+c:\users\alex\documents\visual studio 2015\Projects\STMP_Client\STMP_Client\obj\Debug\STMP_Client.Email.resources
+c:\users\alex\documents\visual studio 2015\Projects\STMP_Client\STMP_Client\obj\Debug\STMP_Client.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\STMP_Client\STMP_Client\obj\Debug\STMP_Client.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\STMP_Client\STMP_Client\obj\Debug\STMP_Client.exe
+c:\users\alex\documents\visual studio 2015\Projects\STMP_Client\STMP_Client\obj\Debug\STMP_Client.pdb
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\bin\Debug\STMP_Client.exe.config
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\bin\Debug\STMP_Client.exe
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\bin\Debug\STMP_Client.pdb
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\obj\Debug\STMP_Client.csprojResolveAssemblyReference.cache
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\obj\Debug\STMP_Client.Email.resources
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\obj\Debug\STMP_Client.Properties.Resources.resources
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\obj\Debug\STMP_Client.csproj.GenerateResource.Cache
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\obj\Debug\STMP_Client.csproj.CoreCompileInputs.cache
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\obj\Debug\STMP_Client.exe
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\obj\Debug\STMP_Client.pdb

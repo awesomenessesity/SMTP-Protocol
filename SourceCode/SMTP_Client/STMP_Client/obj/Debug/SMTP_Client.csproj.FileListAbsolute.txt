@@ -1,0 +1,27 @@
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\obj\Debug\SMTP_Client.csproj.GenerateResource.Cache
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\obj\Debug\SMTP_Client.csproj.CoreCompileInputs.cache
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\bin\Debug\SMTP_Client.exe.config
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\bin\Debug\SMTP_Client.exe
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\bin\Debug\SMTP_Client.pdb
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\obj\Debug\SMTP_Client.Properties.Resources.resources
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\obj\Debug\SMTP_Client.exe
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\obj\Debug\SMTP_Client.pdb
+C:\Users\achi\Desktop\smtp\SMTP_Client\STMP_Client\bin\Debug\SMTP_Client.exe.config
+C:\Users\achi\Desktop\smtp\SMTP_Client\STMP_Client\bin\Debug\SMTP_Client.exe
+C:\Users\achi\Desktop\smtp\SMTP_Client\STMP_Client\bin\Debug\SMTP_Client.pdb
+C:\Users\achi\Desktop\smtp\SMTP_Client\STMP_Client\obj\Debug\SMTP_Client.Email.resources
+C:\Users\achi\Desktop\smtp\SMTP_Client\STMP_Client\obj\Debug\SMTP_Client.Properties.Resources.resources
+C:\Users\achi\Desktop\smtp\SMTP_Client\STMP_Client\obj\Debug\SMTP_Client.csproj.GenerateResource.Cache
+C:\Users\achi\Desktop\smtp\SMTP_Client\STMP_Client\obj\Debug\SMTP_Client.csproj.CoreCompileInputs.cache
+C:\Users\achi\Desktop\smtp\SMTP_Client\STMP_Client\obj\Debug\SMTP_Client.exe
+C:\Users\achi\Desktop\smtp\SMTP_Client\STMP_Client\obj\Debug\SMTP_Client.pdb
+C:\Users\achi\Desktop\smtp\STMP_Client\STMP_Client\obj\Debug\SMTP_Client.Email.resources
+I:\רשתות מתקדמות\new_updated_files\SMTP_Client\STMP_Client\bin\Debug\SMTP_Client.exe.config
+I:\רשתות מתקדמות\new_updated_files\SMTP_Client\STMP_Client\bin\Debug\SMTP_Client.exe
+I:\רשתות מתקדמות\new_updated_files\SMTP_Client\STMP_Client\bin\Debug\SMTP_Client.pdb
+I:\רשתות מתקדמות\new_updated_files\SMTP_Client\STMP_Client\obj\Debug\SMTP_Client.Email.resources
+I:\רשתות מתקדמות\new_updated_files\SMTP_Client\STMP_Client\obj\Debug\SMTP_Client.Properties.Resources.resources
+I:\רשתות מתקדמות\new_updated_files\SMTP_Client\STMP_Client\obj\Debug\SMTP_Client.csproj.GenerateResource.Cache
+I:\רשתות מתקדמות\new_updated_files\SMTP_Client\STMP_Client\obj\Debug\SMTP_Client.csproj.CoreCompileInputs.cache
+I:\רשתות מתקדמות\new_updated_files\SMTP_Client\STMP_Client\obj\Debug\SMTP_Client.exe
+I:\רשתות מתקדמות\new_updated_files\SMTP_Client\STMP_Client\obj\Debug\SMTP_Client.pdb
